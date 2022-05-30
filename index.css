@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+    background-color: rgba(24, 1, 1, 0.9);
+    padding: 5mm 10%
+}
+.cofi{
+    background: url(hero-bcg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    height:100vh;
+    width:100vw;
+    background-image: linear-gradient(to bottom ,rgba(18, 10, 10, 0.8),rgb(238, 239, 234,0.6)), url('hero-bcg.jpg');
+
+   
+
+}
+.coffee{
+   padding: 5% 0 0 10%;
+    color: white;
+   margin-right: 60%;
+   
+}
+p {
+    font-size: 30px;
+}
+h2{
+    font-size: 40px;
+}
+
+input{
+    color:white;
+    border: 2px solid white;
+    padding: 1mm;
+    background-color: rgba(28, 130, 130,0);
+    text-align: center;
+   
+
+}
